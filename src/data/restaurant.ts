@@ -1,0 +1,22 @@
+export const restaurant = {
+  name: "Casa di Pizza",
+  tagline: "Good Pizza · Good Times",
+  established: 2020,
+  description: "Freshly made pizzas, warm hospitality, and good food worth gathering around.",
+  phone: "",
+  whatsapp: "",
+  email: "",
+  address: "",
+  city: "",
+  openingHours: [
+    { days: "Monday – Friday", hours: "11:00 AM – 10:00 PM" },
+    { days: "Saturday – Sunday", hours: "10:00 AM – 11:00 PM" },
+  ],
+  instagram: "https://www.instagram.com/casadipizza2026/",
+  mapsUrl: "",
+  mapsEmbed: "",
+  website: "",
+  heroVideo: "/videos/cover-video.mp4",
+  deliveryFee: 0,
+  minOrderForFreeDelivery: 0,
+};

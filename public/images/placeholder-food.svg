@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#F1DCB4"/>
+  <g transform="translate(200,130)">
+    <circle r="45" fill="none" stroke="#3A1B0A" stroke-opacity="0.15" stroke-width="2"/>
+    <circle r="35" fill="none" stroke="#3A1B0A" stroke-opacity="0.1" stroke-width="1.5"/>
+    <circle cx="-8" cy="-5" r="4" fill="#AA110D" fill-opacity="0.3"/>
+    <circle cx="10" cy="-10" r="3" fill="#AA110D" fill-opacity="0.25"/>
+    <circle cx="5" cy="8" r="3.5" fill="#AA110D" fill-opacity="0.2"/>
+    <circle cx="-12" cy="10" r="2.5" fill="#124C26" fill-opacity="0.3"/>
+    <circle cx="15" cy="5" r="2" fill="#124C26" fill-opacity="0.25"/>
+    <path d="M-3,-15 Q0,-20 3,-15" fill="none" stroke="#124C26" stroke-opacity="0.3" stroke-width="1.5"/>
+  </g>
+  <text x="200" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3A1B0A" fill-opacity="0.3">Food image placeholder</text>
+</svg>
